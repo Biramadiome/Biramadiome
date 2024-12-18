@@ -1,6 +1,6 @@
 <?php
 function main(){
-    echo "Hello, Github!";
+    echo "Hi class!";
 }
 main();
 ?>
